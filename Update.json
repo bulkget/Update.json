@@ -1,7 +1,3 @@
 {
-  "latest_version_code": 2,
-  "min_version_code": 1,
-  "force_update": false,
-  "apk_url": "https://your-host/app-v2.apk",
-  "changelog": "• เพิ่มความเร็วโหลด\n• แก้บั๊กเล็กน้อย"
+  "lock": true
 }
